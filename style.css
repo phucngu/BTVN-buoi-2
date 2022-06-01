@@ -1,0 +1,22 @@
+.menu{
+    width: 100%;
+    height:100px ;
+    background-color: aqua;
+}
+.a{
+    width: 200px;
+    height: 400px;
+    background-color: pink;
+}
+.c{
+    width: 100%;
+    height: 100px;
+    background-color: brown;
+}
+@media only screen and (max-width:740px){
+    
+    
+    .a{
+        width: 100px;
+    }
+}
